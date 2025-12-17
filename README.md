@@ -4,8 +4,6 @@ A small Anki add-on that lets you choose which review button the spacebar select
 
 Created by Ryleigh Newman.
 
----
-
 ## Installation
 
 AnkiWeb page:  
@@ -15,8 +13,6 @@ Add-on code:
 ```
 776877103
 ```
-
----
 
 ## How to Open the Add-on Files
 
@@ -31,8 +27,6 @@ Inside, you will find the Python file:
 ```
 __init__.py
 ```
-
----
 
 ## Configuration
 
@@ -53,13 +47,9 @@ Button values:
 
 Save the file and restart Anki for the change to take effect.
 
----
-
 ## Help
 
 Do you need help?  
 Find me at [https://ryleighnewman.com](https://ryleighnewman.com)
-
----
 
 Uploaded December 17, 2025.
