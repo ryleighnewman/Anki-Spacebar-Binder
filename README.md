@@ -1,47 +1,65 @@
-Anki Spacebar Binder
+# Anki Spacebar Binder
 
 A small Anki add-on that lets you choose which review button the spacebar selects.
 
 Created by Ryleigh Newman.
 
-Installation
+---
 
-AnkiWeb page:
+## Installation
+
+AnkiWeb page:  
 [https://ankiweb.net/shared/info/776877103](https://ankiweb.net/shared/info/776877103)
 
-Add-on code:
+Add-on code:  
+```
 776877103
+```
 
+---
 
-How to Open the Add-on Files
+## How to Open the Add-on Files
 
-1. Open Anki
-2. Click Tools → Add-ons
-3. Select Anki Spacebar Binder
-4. Click View Files
+1. Open Anki  
+2. Click Tools → Add-ons  
+3. Select Anki Spacebar Binder  
+4. Click View Files  
 
-This will open the add-on’s folder on your computer.
+This will open the add-on’s folder on your computer.  
 Inside, you will find the Python file:
 
+```
 __init__.py
+```
 
+---
 
-Configuration
+## Configuration
 
-Open __init__.py in a text editor and change this line:
+Open `__init__.py` in a text editor and change this line:
 
+```python
 return 3
+```
 
-You're changing the number. 
+You're changing the number.
 
 Button values:
-1 = Again
-2 = Hard
-3 = Good
+
+1 = Again  
+2 = Hard  
+3 = Good  
 4 = Easy
 
 Save the file and restart Anki for the change to take effect.
 
-Do you need help? Find me at [ryleighnewman.com](https://ryleighnewman.com)
+---
+
+## Help
+
+Do you need help?  
+Find me at [https://ryleighnewman.com](https://ryleighnewman.com)
+
+---
 
 Uploaded December 17, 2025.
