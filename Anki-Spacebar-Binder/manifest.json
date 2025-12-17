@@ -1,0 +1,8 @@
+{
+  "name": "anki spacebar button binder",
+  "package": "anki_spacebar_binder",
+  "author": "Ryleigh Newman",
+  "version": "1.0.0",
+  "description": "a simple anki add-on that lets you choose which review button the spacebar selects",
+  "ankiweb_id": null
+}
